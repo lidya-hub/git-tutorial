@@ -1,0 +1,76 @@
+body{
+    font-family: verdana;
+    font-size: 2em;
+}
+#countLabel {
+    display:block;
+    text-align: center;
+    font-size:10em;
+    font-family:helvetica;
+}
+#btncontainer {
+    text-align:center;
+}
+.buttons {
+    padding:10px 20px;
+    font-size:1.5em;
+    color:white;
+    background-color:rgb(81, 81, 232);
+    border-radius:5px;
+    cursor:pointer;
+    transition:background-color 0.25;
+}
+.buttons:hover {
+    background-color:rgb(16, 16, 106);
+
+}
+#myButton 
+{
+    font-size:3em;
+    padding:5px 25px;
+    border-radius:5px;
+    font-family:verdana;
+    text-align:center;
+    background-color:black;
+    color:white;
+}
+#myLabel{
+    font-size:3em;
+    font-family:verdana;
+    text-align:center;
+    display:block;
+    
+}
+#mySubmit{
+    font-size: 1em;
+    margin-top:30px;
+    background-color:lightpink;
+    font-weight:bold;
+    border-radius:10px;
+}
+.label {
+    text-align:center;
+    margin-top:40px;
+    margin-bottom:50px;
+}
+.text {
+    
+                font-size:20px;
+                width:500px;
+                padding-top:12px;
+                padding-bottom:12px;
+                padding-left:16px;
+                padding-right:16px;
+                border-radius:30px;
+                box-shadow:0 1px 6px rgb(0,0,0,0.7);
+                border:none;
+                margin-left:430px; 
+                margin-top:10px;
+
+            }
+           
+.age {
+    font-size:30px;
+    text-align:center;
+    margin-bottom:10px;
+}
